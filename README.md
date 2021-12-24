@@ -2,7 +2,7 @@
 
 ### Hello there 👋🏻 🤖
 
-I'm **Rupesh Kumar**, a passionate **Research & Development - Data Scientist** skilled to provide innovative business solutions. I'm also a leader driven by passion and motivation, to empower teams to go above and beyond in style. Having premium experience in Europe, North America & Middle East.
+I'm **Rupesh Kumar**, a passionate **Research & Development - Data Scientist** skilled to provide innovative business solutions. I'm also a leader driven by passion and motivation by empower teams to go above and beyond in style. Having premium experience in Europe, North America & Middle East.
 
 ### 🏆 Achievements 
 - 📊 📉 [Tableau Ambassador](https://lnkd.in/d3iRGSMP) 2021
