@@ -9,7 +9,9 @@ I'm **Rupesh Kumar**, a passionate **Research & Development - Data Scientist** s
 - 🤖 💫 [AI Research Fellow @ AIM Research Center On Artificial Intelligence](https://lnkd.in/duEQqWxM) 2020
 - 👉🏻 💫 [Personal Portfolio](https://lnkd.in/dhwzsHJf) 2020
 
-👉🏻 🕸 [Lets Connect](https://www.linkedin.com/in/rupesh707/)
+### 👉🏻 🕸 Reach Me
+
+[Lets Connect](https://www.linkedin.com/in/rupesh707/)
 
 ### 🛠 Languages & Tools
 
