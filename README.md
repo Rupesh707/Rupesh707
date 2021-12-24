@@ -11,7 +11,7 @@ I'm **Rupesh Kumar**, a passionate **Research & Development - Data Scientist** s
 
 ### 💫 Reach Me
 
-- 🕸 [Lets Connect](https://www.linkedin.com/in/rupesh707/)
+- 🕸 [Lets Connect](https://www.linkedin.com/in/rupesh707/, icon("linkedin"), "LinkedIn", target="_blank")
 
 ### 🛠 Languages & Tools
 
