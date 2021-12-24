@@ -7,7 +7,7 @@ I'm **Rupesh Kumar**, a passionate **Research & Development - Data Scientist** s
 ### 🏆 Achievements 
 - 📊 📉 [Tableau Ambassador](https://lnkd.in/d3iRGSMP) 2021
 - 🤖 💫 [AI Research Fellow @ AIM Research Center On Artificial Intelligence](https://lnkd.in/duEQqWxM) 2020
-- 👉🏻 💫 [Personal Portfolio / Projects](https://lnkd.in/dhwzsHJf) 2020
+- 👉🏻 💫 [Personal Portfolio](https://lnkd.in/dhwzsHJf) 2020
 
 🕸 : [Lets Connect](https://www.linkedin.com/in/rupesh707/)
 
