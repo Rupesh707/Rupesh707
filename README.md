@@ -13,5 +13,5 @@ I'm **Rupesh Kumar**, a passionate **Research & Development - Data Scientist** s
 
 ## **Language and Tools**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh707&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000428)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh707&theme=dracula)
 ![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupesh707&hide=prs,issues,contribs?username=Rupesh707&count_private=true?username=Rupesh707&show_icons=true&theme=dracula)
