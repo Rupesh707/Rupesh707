@@ -11,7 +11,7 @@ I'm **Rupesh Kumar**, an accomplished **Data Scientist** dedicated to crafting i
 - 👉🏻 💫 [Personal Portfolio](https://rupesh707.github.io/Portfolio/) 
 
 ### 🛠️⚙️ Current Gear
-- 💻⌨️🖱️ HP ZBook Studio G10 Workstation
+- 💻⌨️🖱️ HP ZBook Studio G10 Workstation intel i9 X RTX 4070
 
 ### 💫 Reach Me
 
