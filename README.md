@@ -8,7 +8,7 @@ I'm **Rupesh Kumar**, an accomplished **Data Scientist** dedicated to crafting i
 - 👨🏻‍💻 ⚒️ [Z Golbal Data Science & AI Ambassador](https://www.hp.com/us-en/workstations/industries/data-science/ambassador-rupesh-kumar.html)
 - 👏🏻 👏🏿 [Tableau Community Equity Task Force (CEFC)](https://www.tableau.com/blog/meet-tableau-community-equity-task-force)
 - 🤖 💫 [AI Research Fellow @ AIM Research Center On Artificial Intelligence](https://aim.em-lyon.com/value-creation/people/)
-- 👉🏻 💫 [Personal Portfolio](https://lnkd.in/dhwzsHJf) 
+- 👉🏻 💫 [Personal Portfolio](https://rupesh707.github.io/Portfolio/) 
 
 ### 🛠️⚙️ Current Gear
 - 💻⌨️🖱️ HP ZBook Studio G10 Workstation
