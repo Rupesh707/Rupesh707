@@ -10,12 +10,12 @@ I'm **Rupesh Kumar**, an accomplished **Data Scientist** dedicated to crafting i
 - 🤖 💫 [AI Research Fellow @ AIM Research Center On Artificial Intelligence](https://aim.em-lyon.com/value-creation/people/)
 - 👉🏻 💫 [Personal Portfolio](https://lnkd.in/dhwzsHJf) 
 
+### 🛠️⚙️ Current Gear
+- 💻⌨️🖱️ HP ZBook Studio G10 Workstation
+
 ### 💫 Reach Me
 
 - 🕸 [Lets Connect](https://www.linkedin.com/in/rupesh707/)
-
-### 🛠️⚙️ Current Gear
-- 💻⌨️🖱️ HP ZBook Studio G10 Workstation
 
 ### 🛠 Languages & Tools
 
