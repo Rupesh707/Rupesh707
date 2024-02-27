@@ -6,9 +6,8 @@ I'm **Rupesh Kumar**, a passionate **AI Data Scientist** skilled to provide inno
 
 ### 🏆 Achievements 
 - 👨🏻‍💻[Z Golbal Data Science & AI Ambassador](https://www.hp.com/us-en/workstations/industries/data-science/ambassador-rupesh-kumar.html)
-- 👏🏻👏🏿 [Community Equity Task Force (CEFC)](https://lnkd.in/dRFSA2BY)
-- 📊 📉 [Tableau Ambassador](https://www.credly.com/badges/a8bb7f20-03b4-4f20-b79e-62518eb0e8ad/public_url)
-- 🤖 💫 [AI Research Fellow @ AIM Research Center On Artificial Intelligence](https://lnkd.in/duEQqWxM)
+- 👏🏻👏🏿 [Tableau Community Equity Task Force (CEFC)](https://www.tableau.com/blog/meet-tableau-community-equity-task-force)
+- 🤖 💫 [AI Research Fellow @ AIM Research Center On Artificial Intelligence](https://aim.em-lyon.com/value-creation/people/)
 - 👉🏻 💫 [Personal Portfolio](https://lnkd.in/dhwzsHJf) 
 
 ### 💫 Reach Me
